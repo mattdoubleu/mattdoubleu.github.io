@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c4218c53-ae03-4836-ab63-42419d9eda21" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/blog-entry-2020-09-20.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-entry-2020-09-20.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/blog/blog-entry-2020-09-20.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="527">
-              <caret line="46" column="107" selection-start-line="46" selection-start-column="107" selection-end-line="46" selection-end-column="107" />
+              <caret line="46" column="112" selection-start-line="46" selection-start-column="112" selection-end-line="46" selection-end-column="112" />
             </state>
           </provider>
         </entry>
@@ -172,7 +171,7 @@
       <updated>1614795792162</updated>
       <workItem from="1614795796520" duration="12336000" />
       <workItem from="1614813199676" duration="3696000" />
-      <workItem from="1614861174917" duration="131000" />
+      <workItem from="1614861174917" duration="785000" />
     </task>
     <task id="LOCAL-00001" summary="Included blog post.">
       <created>1614815675729</created>
@@ -188,15 +187,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614816470241</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updated blog post from 2020-09-20">
+      <created>1614861357991</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614861357991</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16163000" />
+    <option name="totallyTimeSpent" value="16817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -227,7 +232,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Included blog post." />
     <MESSAGE value="Included a Twitter post." />
-    <option name="LAST_COMMIT_MESSAGE" value="Included a Twitter post." />
+    <MESSAGE value="Updated blog post from 2020-09-20" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated blog post from 2020-09-20" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -291,7 +297,7 @@
     <entry file="file://$PROJECT_DIR$/blog/blog-entry-2020-09-20.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
-          <caret line="46" column="107" selection-start-line="46" selection-start-column="107" selection-end-line="46" selection-end-column="107" />
+          <caret line="46" column="112" selection-start-line="46" selection-start-column="112" selection-end-line="46" selection-end-column="112" />
         </state>
       </provider>
     </entry>

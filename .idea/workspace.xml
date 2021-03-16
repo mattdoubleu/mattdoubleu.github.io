@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4218c53-ae03-4836-ab63-42419d9eda21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blog/blog-entry-2021-03-12.html" afterDir="false" />
+    <list default="true" id="c4218c53-ae03-4836-ab63-42419d9eda21" name="Default Changelist" comment="New blog post.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/blogmainpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blogmainpage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +117,7 @@
       <workItem from="1615068584373" duration="1054000" />
       <workItem from="1615220519369" duration="599000" />
       <workItem from="1615239129180" duration="191000" />
-      <workItem from="1615539957549" duration="591000" />
+      <workItem from="1615539957549" duration="1062000" />
     </task>
     <task id="LOCAL-00001" summary="Included blog post.">
       <created>1614815675729</created>
@@ -212,7 +210,21 @@
       <option name="project" value="LOCAL" />
       <updated>1615068908544</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="New blog post.">
+      <created>1615540656732</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1615540656732</updated>
+    </task>
+    <task id="LOCAL-00015" summary="New blog post.">
+      <created>1615540959139</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1615540959139</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -270,7 +282,8 @@
     <MESSAGE value="Spelling corrections." />
     <MESSAGE value="Updated homepage again." />
     <MESSAGE value="Updated blog." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated blog." />
+    <MESSAGE value="New blog post." />
+    <option name="LAST_COMMIT_MESSAGE" value="New blog post." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">

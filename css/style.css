@@ -116,3 +116,25 @@ input[type=submit]:hover {
   background-color: #f2f2f2;
   padding: 20px;
 }
+
+/*CV Stylez*/
+/*Creating two columns for the CV*/
+.column {
+  float: left;
+}
+
+.left {
+  width: 15%;
+}
+
+.right {
+  width: 85%;
+}
+
+.reduce_bottom_margin {
+  margin-bottom: 0px;
+}
+
+.cv_description {
+  font-size: 16px; margin-top: -20px;
+}

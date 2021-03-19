@@ -117,6 +117,9 @@ input[type=submit]:hover {
   padding: 20px;
 }
 
+/*Blog Stylez*/
+p.groove {border-style: groove;}
+
 /*CV Stylez*/
 /*Creating two columns for the CV*/
 .column {

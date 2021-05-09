@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="147dbcd2-48d9-41c9-ba20-4b23bdfb9cf0" name="Default Changelist" comment="Centred blog titles and pictures in blog mainpage" />
+    <list default="true" id="147dbcd2-48d9-41c9-ba20-4b23bdfb9cf0" name="Default Changelist" comment="Centred blog titles and pictures in blog mainpage">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +50,7 @@
       <workItem from="1616186451333" duration="183000" />
       <workItem from="1616186689207" duration="806000" />
       <workItem from="1618781623085" duration="1576000" />
-      <workItem from="1620219292018" duration="2589000" />
+      <workItem from="1620219292018" duration="3132000" />
     </task>
     <task id="LOCAL-00001" summary="Updated the CV">
       <created>1615937669442</created>

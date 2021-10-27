@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="147dbcd2-48d9-41c9-ba20-4b23bdfb9cf0" name="Default Changelist" comment="Centred blog titles and pictures in blog mainpage">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog-entry-2021-10-29.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-entry-2021-10-29.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +53,7 @@
       <workItem from="1616186689207" duration="806000" />
       <workItem from="1618781623085" duration="1576000" />
       <workItem from="1620219292018" duration="4472000" />
-      <workItem from="1635345311331" duration="1116000" />
+      <workItem from="1635345311331" duration="5342000" />
     </task>
     <task id="LOCAL-00001" summary="Updated the CV">
       <created>1615937669442</created>

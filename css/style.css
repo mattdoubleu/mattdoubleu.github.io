@@ -45,6 +45,13 @@ body, html {height: 100%;}
   text-align: center;
 }
 
+.center_images_blog {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 /* Change the color of links on hover */
 .topnav a:hover {
   background-color: #ddd;
